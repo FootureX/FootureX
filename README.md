@@ -46,9 +46,9 @@ The system is designed to maintain balance and ensure sustainable growth.
 
 ## 🛠 Tech Stack
 
-![Frontend](https://img.shields.io/badge/FrontEnd:_Next.js_React-yellow) <br>
-![Backend](https://img.shields.io/badge/BackEnd:_Node.js_Java_Python-green) <br>
-![Blockchain](https://img.shields.io/badge/Blockchain:_TON/Mirasmanda-blue)
+![Frontend](https://img.shields.io/badge/FrontEnd:-Next.js_React-yellow) <br>
+![Backend](https://img.shields.io/badge/BackEnd:-Node.js_Java_Python-green) <br>
+![Blockchain](https://img.shields.io/badge/Blockchain:-TON/Mirasmanda-blue)
 
 ---
 
