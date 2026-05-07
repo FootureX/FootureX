@@ -1,4 +1,4 @@
-<img src="assets/images/FootureX.jpeg" width="900">
+<img src="assets/images/FootureX.jpeg" width="720" hieght="450">
 
 # ⚽ FootureX
 
