@@ -4,7 +4,7 @@
 
 # ⚽ FootureX
 
-**Football. Future. X.**
+**Football + Future + X.**
 A next-generation platform for building a digital football ecosystem.
 
 ---
