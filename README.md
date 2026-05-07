@@ -1,4 +1,6 @@
-<img src="assets/images/FootureX.jpeg" width="720" hieght="450">
+<p align="center">
+<img style="align:center;" src="https://github.com/FootureX/FootureX/blob/main/FootureX.jpeg?raw=true" width="720" hieght="4250">
+</p>
 
 # ⚽ FootureX
 
