@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="720" height="450" alt="image"
-  src="https://github.com/user-attachments/assets/e3f99aae-72e9-44ef-af61-21a389519ec1">
-</p>
+<img src="assets/images/FootureX.jpeg" width="900">
 
 # ⚽ FootureX
 
