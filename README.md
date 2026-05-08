@@ -73,8 +73,7 @@ Interested in partnerships or collaboration:
 
 ## ⭐ FootureX
 
-We are not just building a game.
-We are building the future of football.
+We will create a digital football era...
 
 ---
 
